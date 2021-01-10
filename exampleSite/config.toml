@@ -1,12 +1,12 @@
-baseURL = "https://example.com/"
+baseURL = "https://EspirituJustin.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hallo"
+title = "Espiritu.L.Justin"
 theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Hallo"
+    name = "Justin L. Espiritu"
 
 [params]
 
@@ -14,15 +14,15 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:mail@example.org"
+        url = "mailto:espiritu.l.justin@gmail.com"
 
     [[params.links]]
         icon = "github"
         title = "Github"
-        url = "https://github.com/"
+        url = "https://github.com/JuicyJuice1100"
 
     [[params.links]]
-        icon = "twitter"
-        title = "Twitter"
-        url = "https://twitter.com/"
+        icon = "linkedin"
+        title = "linkedin"
+        url = "https://www.linkedin.com/in/justin-espiritu-b4a277138/"
       
